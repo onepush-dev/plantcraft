@@ -1,6 +1,6 @@
 # Process engineering suite (based on PlantCraft) — historian-ready platform for process engineers. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TBD)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/vz-0_y)
 
 This template runs the [PlantCraft](https://github.com/PlantCraft/PlantCraft) platform (Apache-2.0), built unmodified
 from upstream tag v0.6.1 with upstream's own Dockerfile (`ghcr.io/onepush-dev/plantcraft-base:0.6.1`), plus a small
